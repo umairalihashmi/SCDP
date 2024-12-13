@@ -1,5 +1,5 @@
-# Single Cycle Data Path 
-SCDP designed with logisim
+# MIPS Single Cycle Data Path 
+designed with logisim
 
 ## FILES
 - Main Circuit
